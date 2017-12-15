@@ -31,6 +31,11 @@
 			"Rev": "5bd2802263f21d8788851d5305584c82a5c75d7e"
 		},
 		{
+			"ImportPath": "github.com/Shopify/sarama",
+			"Comment": "v1.15.0",
+			"Rev": "3b1b38866a79f06deddf0487d5c27ba0697ccd65"
+		},
+		{
 			"ImportPath": "github.com/beorn7/perks/quantile",
 			"Rev": "3ac7bf7a47d159a033b107610db8a1b6575507a4"
 		},
@@ -125,6 +130,20 @@
 			"ImportPath": "github.com/docker/distribution/reference",
 			"Comment": "v2.4.0-rc.1-38-gcd27f17",
 			"Rev": "cd27f179f2c10c5d300e6d09025b538c475b0d51"
+		},
+		{
+			"ImportPath": "github.com/eapache/go-resiliency/breaker",
+			"Comment": "v1.0.0-6-gb1fe83b",
+			"Rev": "b1fe83b5b03f624450823b751b662259ffc6af70"
+		},
+		{
+			"ImportPath": "github.com/eapache/go-xerial-snappy",
+			"Rev": "bb955e01b9346ac19dc29eb16586c90ded99a98c"
+		},
+		{
+			"ImportPath": "github.com/eapache/queue",
+			"Comment": "v1.1.0",
+			"Rev": "44cc805cf13205b55f69e14bcb69867d1ae92f98"
 		},
 		{
 			"ImportPath": "github.com/elazarl/go-bindata-assetfs",
@@ -289,6 +308,16 @@
 			"Rev": "ca53cad383cad2479bbba7f7a1a05797ec1386e4"
 		},
 		{
+			"ImportPath": "github.com/pierrec/lz4",
+			"Comment": "v1.0.1",
+			"Rev": "08c27939df1bd95e881e2c2367a749964ad1fceb"
+		},
+		{
+			"ImportPath": "github.com/pierrec/xxHash/xxHash32",
+			"Comment": "v0.1-11-ga0006b1",
+			"Rev": "a0006b13c722f7f12368c00a3d3c2ae8a999a0c6"
+		},
+		{
 			"ImportPath": "github.com/pkg/errors",
 			"Comment": "v0.7.0-13-ga221380",
 			"Rev": "a22138067af1c4942683050411a841ade67fe1eb"
@@ -318,6 +347,10 @@
 		{
 			"ImportPath": "github.com/prometheus/procfs",
 			"Rev": "454a56f35412459b5e684fd5ec0f9211b94f002a"
+		},
+		{
+			"ImportPath": "github.com/rcrowley/go-metrics",
+			"Rev": "e181e095bae94582363434144c61a9653aff6e50"
 		},
 		{
 			"ImportPath": "github.com/riemann/riemann-go-client",
@@ -425,6 +458,10 @@
 		},
 		{
 			"ImportPath": "golang.org/x/text/cases",
+			"Rev": "2910a502d2bf9e43193af9d68ca516529614eed3"
+		},
+		{
+			"ImportPath": "golang.org/x/text/internal",
 			"Rev": "2910a502d2bf9e43193af9d68ca516529614eed3"
 		},
 		{
@@ -1427,6 +1464,10 @@
 			"ImportPath": "k8s.io/client-go/util/testing",
 			"Comment": "v2.0.0-alpha.0-75-g6500775",
 			"Rev": "6500775c58c43486978291879ac9e1b0e9fc953f"
+		},
+		{
+			"ImportPath": "k8s.io/kube-openapi/pkg/common",
+			"Rev": "abfc5fbe1cf87ee697db107fdfd24c32fe4397a8"
 		},
 		{
 			"ImportPath": "k8s.io/kubernetes/pkg/kubelet/apis/stats/v1alpha1",
